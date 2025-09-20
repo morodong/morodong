@@ -7,6 +7,12 @@
 
 ---
 
+## 연락처
+- **이메일:** 2444024@donga.ac.kr  
+- **GitHub:** [https://github.com/morodong](https://github.com/morodong)
+
+---
+
 ## 프로젝트
 
 ### BudgetCLI – 개인 예산 관리 CLI
