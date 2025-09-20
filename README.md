@@ -26,7 +26,8 @@ AI 학과에서 수학적 기초를 다져왔으며, 대학수학과 선형대�
 
 ### BudgetCLI – 개인 예산 관리 CLI
 - **주요 기능:** 사용자가 지출/수입 기록을 CLI에서 입력, 월별 요약, 카테고리별 분석 제공  
-- **자동화/특징:** 예산 초과 알림, 삭제 및 수정 기능 포함  
+- **특징:** 예산 초과 알림, 삭제 및 수정 기능 포함
+- **배운 점:** 예외 처리와 데이터 관리 로직 구현을 통해 Python 프로그래밍 실력과 문제 해결 능력 향상  
 - **사용 기술:** Python, argparse, CSV, Git  
 - **GitHub:** [https://github.com/morodong/BudgetCLI](https://github.com/morodong/BudgetCLI)
 
