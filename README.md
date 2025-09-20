@@ -7,6 +7,13 @@
 
 ---
 
+## 프로젝트
+
+### BudgetCLI – 개인 예산 관리 CLI
+- **주요 기능:** 사용자가 지출/수입 기록을 CLI에서 입력, 월별 요약, 카테고리별 분석 제공  
+- **자동화/특징:** 예산 초과 알림, 삭제 및 수정 기능 포함  
+- **사용 기술:** Python, argparse, CSV, Git  
+- **GitHub:** [https://github.com/morodong/BudgetCLI](https://github.com/morodong/BudgetCLI)
 ## 🛠 Tech Stack
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
