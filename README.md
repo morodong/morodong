@@ -32,7 +32,7 @@ AI 학과에서 수학적 기초를 다져왔으며, 대학수학과 선형대�
 
 ---
 
-## Skills
+## skills.
 - **Programming Languages:** 
   - Python: 데이터 분석 과제 수행, NumPy 활용
   - C++: 객체지향, 수업 프로젝트 경험
