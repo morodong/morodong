@@ -1,7 +1,6 @@
 <h1 align="center"> morodong </h1>
 
 <p align="center">
-   수학적 기초를 무기로 성장하는 AI & Web 개발자<br>
    수학적 기초를 바탕으로 문제를 분석하고 해결하는 개발자로 성장하고 있는 박수빈입니다.<br>
 </p>
 
