@@ -8,12 +8,12 @@
 ---
 
 ## contact.
-- **이메일:** 2444024@donga.ac.kr
+- **email.** 2444024@donga.ac.kr
 
 ---
 
 ## channal.
-- **GitHub:** [https://github.com/morodong](https://github.com/morodong)
+- **GitHub.** [https://github.com/morodong](https://github.com/morodong)
 
 ---
 
